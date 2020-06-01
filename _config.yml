@@ -75,3 +75,4 @@ image_processing:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+google_analytics: UA-75997179-3
